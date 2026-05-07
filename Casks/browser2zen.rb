@@ -1,6 +1,6 @@
 cask "browser2zen" do
-  version "1.1.0"
-  sha256 "a07000690dd4bfcec11806da58e566d30b41ae437ddb9c26493a4420edff3cf8"
+  version "1.2.0"
+  sha256 "4e8160b51ffbf56ecd1b00548801c964f6195996c320989eb8cde29783cf59c3"
 
   url "https://github.com/tarikbc/browser2zen/releases/download/v#{version}/browser2zen-#{version}-arm64.dmg"
   name "browser2zen"
