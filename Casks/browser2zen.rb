@@ -2,8 +2,7 @@ cask "browser2zen" do
   version "1.1.0"
   sha256 "a07000690dd4bfcec11806da58e566d30b41ae437ddb9c26493a4420edff3cf8"
 
-  url "https://github.com/tarikbc/browser2zen/releases/download/v#{version}/browser2zen-#{version}-arm64.dmg",
-      verified: "github.com/tarikbc/browser2zen/"
+  url "https://github.com/tarikbc/browser2zen/releases/download/v#{version}/browser2zen-#{version}-arm64.dmg"
   name "browser2zen"
   desc "Migrate workspaces, tabs, bookmarks, history, and cookies into Zen Browser"
   homepage "https://github.com/tarikbc/browser2zen"
