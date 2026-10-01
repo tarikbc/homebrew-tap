@@ -1,6 +1,6 @@
 cask "copy" do
-  version "0.1.7"
-  sha256 "34f0e425d439dbca66f91b61e7339edd1dbffb534734ed132789216c1e415803"
+  version "0.2.0"
+  sha256 "94c9197c2e8434f194d79f84a2ffd5fa30f6d0efdf6dbdfaa0ca3b67a4881e99"
 
   url "https://github.com/tarikbc/Copy/releases/download/v#{version}/Copy-#{version}.dmg"
   name "Copy"
